@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <BrowserRouter>
         <div>
-          <Main/>
+          <Main />
         </div>
       </BrowserRouter>
     );
